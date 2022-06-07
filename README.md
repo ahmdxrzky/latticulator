@@ -7,4 +7,6 @@ In conclusion, my team has conduct a research to provide an app as an alternativ
 As a comparison, you can refer to XRD data below. <br>
 ![xrd](https://user-images.githubusercontent.com/99194827/172378726-42a3efd3-e2b0-4514-ab7c-834d3b2aa3a0.jpg) <br>
 
-You can run the app, type 1 to choose CUBIC crystal structure, type 7 as total rows of XRD data, and type in XRD data per row. It should produce lattice parameter as a in very similar number with what is written in XRD data.
+You can run the app by clicking the link below, open it in colab, type 1 to choose CUBIC crystal structure, type 7 as total rows of XRD data, and type in XRD data per row. It should produce lattice parameter as a in very similar number with what is written in XRD data. <br>
+
+[RUN THE APP NOW!](https://github.com/ahmdxrzky/latticulator/blob/main/latticulator_app.ipynb)
